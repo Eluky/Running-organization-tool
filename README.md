@@ -1,5 +1,5 @@
 # Running-organization-tool
-- 约跑组织工具团队协作说明
+- 队协作说明
 	- 总体说明
 	- 项目分工
 	- 工作流程
